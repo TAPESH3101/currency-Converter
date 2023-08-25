@@ -11,7 +11,7 @@ body{
 
 .container{
     background-color: darkcyan;
-    color: aliceblue;
+    color: rgb(231, 238, 244);
     padding: 10px;
     border-radius: 5px;
     text-align: center;
